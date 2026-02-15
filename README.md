@@ -15,3 +15,13 @@ Python, Gemini API, Streamlit
 ## Run
 streamlit run app.py
 
+## Setup Instructions
+
+1. Clone repo
+2. Create .env file
+3. Add your Gemini API key
+
+GEMINI_API_KEY=your_key_here
+
+4. Run:
+streamlit run app.py
